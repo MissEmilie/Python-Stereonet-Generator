@@ -38,7 +38,8 @@ Azimuth  Dip
 ```
 
 Example Output:
-[alt text]("Example Stereonet")
+
+![Example Stereonet](StereonetExample1.png)
 
 *All values were taken using the FieldMove Clino App.*
 
