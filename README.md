@@ -1,5 +1,5 @@
 # Python Stereonet Generator
-A python script to generate stereonets with a csv file with dip and azimuth columns - fully compatible with the FieldMove Clino app.
+A python script to generate a stereonet with a csv file with dip and azimuth columns - fully compatible with the FieldMove Clino app.
 
 ## Usage
 ### Online through Github
@@ -50,6 +50,11 @@ For now, the only customization is the title and caption of the stereonet. Usual
 Title: The title will appear at the top of the stereonet, in 14pt font. 
 
 Caption: The caption will appear at the bottom, in 12pt font and in italics.
+
+### Future Features
+- Colour customization
+- Multiple Stereonets from one file
+- Exporting to PNG, PDF, JPG etc.
 
 ## Licenses
 Free use for educational purposes or personal use.
