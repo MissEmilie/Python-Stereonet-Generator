@@ -59,7 +59,7 @@ def plot_stereonet():
     if caption:
         fig.text(0.5, 0.02, caption, ha="center", fontsize=10, style="italic")
         
-    else:
-        plt.show()
+    plt.show()
+
 
 print(plot_stereonet())
