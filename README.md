@@ -28,13 +28,23 @@ pip install mplstereonet
 ## Example Usage
 
 Inputted csv file:
-```bash
+```csv
 Azimuth  Dip
 017      087
 033      087
 325      087
 346      087
 014      089
+```
+
+Example Strike Calculation
+
+```
+Strike = (Azimuth - 90) % 360
+
+Strike = (017 - 90) % 360
+
+Strike = 287
 ```
 
 Example Output:
