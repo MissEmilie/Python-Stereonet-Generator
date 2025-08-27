@@ -32,15 +32,7 @@ pip install mplstereonet
 
 ## Example Usage
 
-Inputted csv file:
-```csv
-Azimuth  Dip
-017      087
-033      087
-325      087
-346      087
-014      089
-```
+Inputted csv file found [here](https://github.com/MissEmilie/Python-Stereonet-Generator/blob/main/Images/Example%20Strike%20and%20Dip.csv)
 
 Example Strike Calculation
 
